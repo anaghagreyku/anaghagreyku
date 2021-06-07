@@ -4,11 +4,11 @@
     <script>
       window.OneSignal = window.OneSignal || [];
       OneSignal.push(function() {
-        OneSignal.init({
-          appId: "b4ef98ac-9774-4421-9e1c-a9ffea0a41af",
-        });
+         OneSignal.init({
+            appId: "b3228e68-5331-4567-b72e-8958dc82c3b4",
+          });
       });
-    </script>
+   </script>
   </head>
   <body>
     <h1>Hi Greyku</h1>
