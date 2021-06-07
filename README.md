@@ -4,7 +4,7 @@
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
     OneSignal.init({
-      appId: "3310dc52-ddda-424b-bf20-25cf0d6b30f0",
+      appId: "b4ef98ac-9774-4421-9e1c-a9ffea0a41af",
     });
   });
 </script>
